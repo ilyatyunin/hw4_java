@@ -1,6 +1,6 @@
 package ru.betboom;
 
-public class hw4 {
+public class Hw4 {
     public static void main(String[] args) {
 
         // объявляем типы данных
@@ -19,7 +19,6 @@ public class hw4 {
         System.out.println(varLong / varDouble);
         System.out.println(varLong / varFloat);
         System.out.println(varInt % varLong);
-
 
         // переполнение
         System.out.println((byte) (varByte + varInt));
